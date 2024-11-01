@@ -1,0 +1,195 @@
+input[type="checkbox"], input[type="radio"] {
+	width: 16px !important;
+}
+.woobing-form textarea,
+.woobing-form input,
+.woobing-form select
+{
+	float: left;
+	width: 30%;
+}
+.woobing-form label {
+	width: 24%;
+	float: left;
+}
+.woobing-clear {
+	clear: both;
+}
+.woobing-form .woobing-form-field {
+	display: inline-block;
+    width: 100%;
+    position: relative;
+    margin-bottom: 15px;
+}
+.woobing-form .woobing-form-field input {
+	height: 34px;
+}
+.woobing-form .woobing-form-field label {
+	font-size: 15px;
+	font-weight: bold;
+}
+.woobing-form .description {
+	display: inline-block;
+	width: 70%;
+}
+.woobing-form .description {
+	margin-left: 24%;
+}
+.woobing-form input[type="submit"] {
+	width: auto;
+}
+.woobing-form input[type="checkbox"] {
+	width: 14px;
+	height: 14px;
+}
+.woobing-form input[type="submit"] {
+	float: none;
+	margin-top: 10px;
+}
+.woobing-form .woobing-more-field, .woobing-form .woobing-remove-more {
+	cursor: pointer;
+}
+.woobing-form em, .woobing-feed-form em  {
+	color: red;
+}
+.woobing-form .woobing-notification {
+	position: absolute;
+	left: 55%;
+	top: 6%;
+	color: red;
+}
+.woobing-form .woobing-more-field {
+	background: #2ea2cc;
+    color: #fff;
+    height: 16px;
+	left: 52.8%;
+    position: absolute;
+    text-align: center;
+    top: 2px;
+    width: 13px;
+}
+.woobing-form .woobing-remove-more {
+	background: #2ea2cc;
+    color: #fff;
+    height: 16px;
+    left: 51.5%;
+    position: absolute;
+    text-align: center;
+    top: 2px;
+    width: 13px;
+}
+.woobing-form-wrap {
+	background: #fff;
+	padding: 10px;
+}
+.woobing-form .woobing-product-field-child-wrap {
+	width: 98%;
+}
+.woobing-form .woobing-form-part, .woobing-form .woobing-product-field-child-wrap {
+	background: #f7f7f7;
+	padding: 10px;
+}
+.woobing-product-info {
+	margin-top: 9px;
+}
+.woobing-form .woobing-spinner {
+	background: url( 'images/loading.gif' ) no-repeat;
+	height: 16px;
+	width: 16px;
+	display: inline-block;
+	margin: 15px 0 0 15px;
+}
+.woobing-submit-notification {
+	padding: 7px !important;
+}
+.woobing-error-code {
+	color: red;
+}
+.woobing-nav-tab-wrap {
+	margin-bottom: 10px !important;
+}
+
+.postbox .postbox-title {
+	margin: 0;
+	padding: 8px 12px;
+	border-bottom: 1px solid #eee;
+}
+
+.woobing-feed-form-content {
+	padding: 8px 12px;
+}
+
+
+.woobing-feed-form-content .woobing-field
+{
+	float: left;
+	width: 30%;
+}
+.woobing-feed-form-content label  {
+	width: 24%;
+	float: left;
+}
+
+.woobing-feed-form-content .woobing-form-field {
+	display: inline-block;
+    width: 100%;
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.woobing-feed-form-content .description {
+	display: inline-block;
+	width: 70%;
+}
+.woobing-feed-form-content .description {
+	margin-left: 24%;
+}
+
+.woobing-warning {
+	border: 2px solid #7ad03a;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 2;
+    margin: 10px;
+    padding: 9px;
+    text-align: justify;
+    width: 56%;
+}
+.woobing .woobing-sub-nav {
+	background: #FFFFFF;
+    border-color: #CCCCCC;
+    border-image: none;
+    border-right: 1px solid #CCCCCC;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    color: #898989;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0 0 10px;
+    padding: 5px 20px;
+    position: relative;
+}
+.woobing .woobing-sub-nav .woobing-subsubsub {
+	margin: 0;
+	padding: 0;
+}
+.woobing .woobing-sub-nav .woobing-subsubsub li {
+	display: inline-block;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+.woobing .woobing-sub-nav .woobing-subsubsub li a {
+	text-decoration: none;
+	padding: 0 5px;
+}
+.woobing .woobing-sub-nav .woobing-subsubsub li:first-child a {
+	padding-left: 0;
+}
+.woobing .woobing-sub-nav .woobing-subsubsub li .woobing-sub-current {
+	font-weight: 600;
+    color: #000000;
+}
+.woobing-hidden {
+	display: none;
+}
